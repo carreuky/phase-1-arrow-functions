@@ -1,5 +1,4 @@
-const divide=(number1 ,number2)=>(2000/100)
-
+const divide=(number1=2000 ,number2=100)=>(number1/number2)
 const square=(number3)=>(number3*number3)
 square(3)
 
